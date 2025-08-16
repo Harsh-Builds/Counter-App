@@ -9,32 +9,32 @@ This project is a React-based Counter App built to practice fundamental concepts
 
 The app includes:
 
-Increment / Decrement counter
+✔️ Increment / Decrement counter
 
-Reset functionality
+✔️ Reset functionality
 
-Step size adjustment
+✔️ Step size adjustment
 
-Option to allow or restrict negative values
+✔️ Option to allow or restrict negative values
 
-Upper and lower limit handling
+✔️ Upper and lower limit handling
 
 
 🔗 Links
 
-GitHub Repository: [Counter App](https://github.com/Harsh-Builds/Counter-App)
+* GitHub Repository: [Counter App](https://github.com/Harsh-Builds/Counter-App)
 
-Live Demo: [🌐 View Demo Here](https://counter-app-git-main-harsh-sainis-projects-b834cb1b.vercel.app/)
+* Live Demo: [🌐 View Demo Here](https://counter-app-git-main-harsh-sainis-projects-b834cb1b.vercel.app/)
 
 🛠 Technologies Used
 
-React.js
+- React.js
 
-JavaScript (ES6+)
+- JavaScript (ES6+)
 
-HTML5
+- HTML5
 
-CSS3 / TailwindCSS
+- CSS3 / TailwindCSS
 
 ⚙️ How to Run the App Locally
 
@@ -60,17 +60,17 @@ http://localhost:3000
 
 🧪 Sample Input & Output
 
-Increment Button (+): Increases counter by selected step size
+- Increment Button (+): Increases counter by selected step size
 
-Decrement Button (-): Decreases counter unless limit/negative restriction is reached
+- Decrement Button (-): Decreases counter unless limit/negative restriction is reached
 
-Reset Button: Resets counter to zero
+- Reset Button: Resets counter to zero
 
-Step Size Input: Changes increment/decrement step value
+- Step Size Input: Changes increment/decrement step value
 
-Allow Negative Checkbox: Controls whether counter can go below 0
+- Allow Negative Checkbox: Controls whether counter can go below 0
 
-Upper/Lower Limit: Disables buttons if limit is reached
+- Upper/Lower Limit: Disables buttons if limit is reached
 
 
 🔧 Features
